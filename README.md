@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Hasindi
 
-<!--
-**hasindi1230/hasindi1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Computer Science undergraduate** from Sri Lanka, with a keen interest in tech stacks like **Java, Spring Boot, React, and Machine Learning**. I love building software solutions that solve real-world problems! 💡
 
-Here are some ideas to get you started:
+- 🔭 I’m currently persuaing my degree.
+- 🌱 I’m learning **Machine Learning & Advanced React**.
+- ⚡ I am down to explore new tech and solve algorithmic challenges! 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/hasindi1230)
+
+## 📊 GitHub Stats
+![Hasindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasindi1230&show_icons=true&theme=radical)
